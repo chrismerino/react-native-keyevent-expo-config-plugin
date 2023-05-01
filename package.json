@@ -27,7 +27,7 @@
     "expo-module-scripts": "^2.1.1"
   },
   "peerDependencies": {
-    "expo": "^46.0.2"
+    "expo": ">=48.0.15"
   },
   "dependencies": {
     "@expo/config-plugins": "^5.0.1"
